@@ -1,0 +1,25 @@
+body{
+    margin-top: 15%;
+    margin-bottom: 50%;
+    margin-right: 15%;
+    margin-left: 20%;
+    text-align: center;
+
+    font-family: sans-serif;
+    color: white;
+    background: radial-gradient(at left top, #021f65, #0a774f);
+}
+
+h1{
+    font-size: 72px;
+}
+button{
+    color: darkolivegreen;
+    background: whitesmoke;
+    font-size: 54px;
+
+    padding: 20px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
